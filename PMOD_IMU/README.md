@@ -1,6 +1,8 @@
 # PMOD_boards
  This repository include all pmods created with KiCad
 
+![imagen](./img/im4.png)
+
 ## Schematic
 
 [schematic](/salida_esquematico.pdf)
